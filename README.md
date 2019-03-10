@@ -1,2 +1,1 @@
 # RGBGuessingGame
-Hello World
